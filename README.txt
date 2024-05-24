@@ -1,4 +1,4 @@
-# READNE Markdown Demo
+# README Markdown Examples
 
 This README provides a demonstration of Markdown syntax for common formatting.
 
@@ -28,7 +28,8 @@ This README provides a demonstration of Markdown syntax for common formatting.
 
 ## Links
 
-[Basic writing and formatting syntax]([https://openai.com](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))  
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+ 
 [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
 ## Code
@@ -41,3 +42,5 @@ def greet():
 ```
 
 The example Markdown text used to display this README is in [README.txt](README.txt) in the project directory.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
