@@ -28,8 +28,8 @@ This README provides a demonstration of Markdown syntax for common formatting.
 
 ## Links
 
-[Basic writing and formatting syntax]([https://openai.com](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))  
-[Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+[Basic writing and formatting syntax]([https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax])  
+[Getting started with writing and formatting on GitHub]([https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github])
 
 ## Code
 
