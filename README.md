@@ -41,3 +41,5 @@ def greet():
 ```
 
 The example Markdown text used to display this README is in [README.txt](README.txt) in the project directory.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
