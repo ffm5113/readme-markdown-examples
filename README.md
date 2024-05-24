@@ -38,3 +38,6 @@ Inline `code` can be indicated with backticks. For code blocks:
 ```python
 def greet():
     print("Hello, world!")
+```
+
+The example Markdown text used to display this README is in [README.txt](README.txt) in the project directory.
