@@ -4,7 +4,7 @@ This README provides a demonstration of Markdown syntax for common formatting.
 
 ## Image Styled Using HTML/Inline CSS
 <p align="left">
-  <img src="path_to_your_image.jpg" alt="Image Description">
+  <img src="https://github.com/ffm5113/readme-markdown-examples/blob/main/README_cyber.png" alt="README Cyberpunk Image">
 </p>
 
 ## Headings
