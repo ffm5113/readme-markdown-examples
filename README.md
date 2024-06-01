@@ -2,6 +2,11 @@
 
 This README provides a demonstration of Markdown syntax for common formatting.
 
+## Image with Centered Styling
+<p align="center">
+  <img src="path_to_your_image.jpg" alt="Image Description">
+</p>
+
 ## Headings
 
 ### Subheading
