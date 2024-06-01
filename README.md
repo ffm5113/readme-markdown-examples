@@ -7,7 +7,7 @@ This README provides a demonstration of Markdown syntax for common formatting.
   <img src="https://github.com/ffm5113/readme-markdown-examples/blob/main/README_cyber.png" alt="README Cyberpunk Image" style="width:300px;height:300px;">
 </p>
 
-## Headings
+## Heading
 
 ### Subheading
 
