@@ -6,7 +6,8 @@ This README provides a demonstration of Markdown syntax for common formatting.
 <p align="left">
   <img src="https://github.com/ffm5113/readme-markdown-examples/blob/main/README_cyber.png" alt="README Cyberpunk Image" style="width:300px;height:300px;">
 </p>
-[README_cyber.png](README_cyber.png)
+
+[README_cyber.png file](README_cyber.png)
 
 ## Heading
 
