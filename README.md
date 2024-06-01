@@ -3,7 +3,7 @@
 This README provides a demonstration of Markdown syntax for common formatting.
 
 ## Image with Centered Styling Using HTML/Inline CSS
-<p align="center">
+<p align="left">
   <img src="path_to_your_image.jpg" alt="Image Description">
 </p>
 
