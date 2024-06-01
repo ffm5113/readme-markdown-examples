@@ -13,7 +13,7 @@ This README provides a demonstration of Markdown syntax for common formatting.
 
 ## Emphasis
 
-*Italic text* or _Italic text_  
+*Italic text using \** or _Italic text using \__  
 **Bold text using \*\*** or __Bold text using \_\___  
 ***Bold and italic text using \*\*\**** or ___Bold and italic text using \_\_\____
 
